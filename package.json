@@ -1,22 +1,23 @@
 {
-  "name": "test_package",
-  "version": "1.0.0",
-  "description": "test for learning",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dobrakowskimat/package-test.git"
-  },
-  "keywords": [
-    "test"
-  ],
-  "author": "Mateusz Dobrakowski",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dobrakowskimat/package-test/issues"
-  },
-  "homepage": "https://github.com/dobrakowskimat/package-test#readme"
+	"name": "test_package_mateusz_d",
+	"version": "1.0.0",
+	"description": "test for learning",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/dobrakowskimat/package-test.git"
+	},
+	"keywords": [
+		"test"
+	],
+	"author": "Mateusz Dobrakowski",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/dobrakowskimat/package-test/issues"
+	},
+	"homepage": "https://github.com/dobrakowskimat/package-test#readme"
 }
